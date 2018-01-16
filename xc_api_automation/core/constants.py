@@ -3,7 +3,10 @@ case_name_cn_list = {
     'task_server':'主任务服务器',
     'keke_api_test':'科科API接口测试服务',
     'hx_api_test':'华星OA测试服务器',
+    'hjergkfhegrhfghjreghfghergfhgerhf':'jsdhfj';
+    'hjergkfhegrhfghjreghfghergfhgerhf':'dsjkfh';
     'hjergkfhegrhfghjreghfghergfhgerhf':'rehjfgfhebfhre';
+    'hjergkfhegrhfghjreghfghergfhgerhf':'jdfjsdhfhjsdkflskdhf';
 
 }
 
